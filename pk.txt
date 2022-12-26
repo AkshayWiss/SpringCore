@@ -1,1 +1,2 @@
 Edit= Editable
+Run= Runable
